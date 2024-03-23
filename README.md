@@ -1,5 +1,10 @@
 # T-Display-S3-YT
 
+Do you like my videos? Please consider buying me a ☕ :
+https://www.buymeacoffee.com/nishad2m8
+
+---
+
 | No  | Thumb | Youtube URL |
 | ------|-----|----------|
 | 1  | ![alt text](00-Assets/01-Strawberry-Clock.jpg)  | https://youtu.be/BPWYbxvgGAU?si=t1dwBzdPPD_XyhFL |
