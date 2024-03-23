@@ -1,6 +1,6 @@
 # T-Display-S3-YT
 
-| No  | Thumb | Youtube URl |
+| No  | Thumb | Youtube URL |
 | ------|-----|----------|
 | 1  | ![alt text](00-Assets/01-Strawberry-Clock.jpg)  | https://youtu.be/BPWYbxvgGAU?si=t1dwBzdPPD_XyhFL |
 | 2 | ![alt text](00-Assets/02-Casio-Style-World-Clock.jpg)  | https://youtu.be/VwGUaCZ3xvE?si=hd5xYz77eS4Aqens   |
