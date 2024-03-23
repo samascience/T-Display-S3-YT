@@ -1,4 +1,4 @@
-# Moon Phase Clock
+# Strawberry Clock
 
 https://youtu.be/BPWYbxvgGAU?si=QZrGXchrecsZ9wX5
 
