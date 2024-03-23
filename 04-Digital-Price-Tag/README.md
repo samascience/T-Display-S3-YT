@@ -1,5 +1,5 @@
 # Digital Price Tag
 
-https://youtu.be/bRCWRRVrFdg?si=6pkLzysPgrXUchSG
+https://youtu.be/e0AQbNbZpX4?si=0fWxXvCSSfSGP_jB
 
-![alt text](<../06-Auto-Guage/Assets/Auto Guage.png>)
+![alt text](<Assets/Digital price tag.png>)
