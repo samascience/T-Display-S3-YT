@@ -1,1 +1,3 @@
-# T-Display-S3-YT
+# Moon Phase Clock
+
+![alt text](<Assets/Moon Phase Clock.GIF>)
