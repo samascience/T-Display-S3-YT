@@ -9,6 +9,7 @@ https://www.buymeacoffee.com/nishad2m8
 
 | No.  | Thumb | Youtube URL |
 | ------|-----|----------|
+| 8 | ![alt text](<00-Assets/08-Compass UI on ESP32 T-Display S3.jpg>) | https://youtu.be/P-8HxCbIPsg?si=lTSQTdTZcozTtxuy|
 | 7 | ![alt text](<00-Assets/07-Moon Phase Clock ESP32.jpg>) | https://youtu.be/5JlM6892-Zw|
 | 6 | ![alt text](00-Assets/06-Auto-Guage.jpg) | https://youtu.be/bRCWRRVrFdg|
 | 5 | ![alt text](00-Assets/05-Nixie-Clock.jpg) |https://youtu.be/Ms3G75Q8F60|
